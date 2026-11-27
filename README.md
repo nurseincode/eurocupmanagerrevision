@@ -4,10 +4,10 @@
 
 ## Features
 
-- Load match data from a json file
+- Load match data from a JSON file
 - Display all match data
-- Add a new match ie a user can add a new match
+- Add a new match 
 - Calculate and display total goals
 - Filter and display high-scoring matches
-- Save match data to a json file ie the matches added need to be saved
+- Save match data to a JSON file 
 - Error handling for user input and file ops
